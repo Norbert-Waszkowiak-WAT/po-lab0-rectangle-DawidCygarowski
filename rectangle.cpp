@@ -33,7 +33,7 @@ class Rectangle {
         void display()const {
             cout << "Rectangle: " << width << " x " << height << endl;
             cout << "Arena: " << area() << endl;
-            cout << "Perimeter: " << perimeter () << endl;
+            cout << "Perimeter: " << perimeter() << endl;
         }
 
 
